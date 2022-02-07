@@ -1,0 +1,15 @@
+.label {
+    width: 75px;
+    height: 24px;
+    border-radius: 4px;
+    background: rgba(80, 62, 157, 0.1);
+    font-family: 'Open Sans SemiBold', sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 16px;
+    color: #503E9D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}

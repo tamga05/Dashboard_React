@@ -1,0 +1,52 @@
+.headline {
+    width: 336px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rightBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ratingBlock {
+    width: 115px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 14px;
+}
+
+.likeBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dislikeBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.likeIcon, .dislikeIcon {
+    margin-right: 4px;
+}
+
+.likeSpan, .dislikeSpan {
+    font-family: 'Open Sans Regular', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #626264;
+}
+
+.bottomBlock {
+    width: 216px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

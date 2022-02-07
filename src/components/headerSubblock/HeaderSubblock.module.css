@@ -1,0 +1,14 @@
+.wrapper {
+    display: inline-flex;
+}
+
+.headerSubblockSpan {
+    margin-left: 12px;
+    margin-right: 7px;
+    font-family: 'Open Sans Semibold', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #182135;
+
+}
