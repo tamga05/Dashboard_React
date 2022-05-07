@@ -4,6 +4,7 @@
 <img src="https://miro.medium.com/max/952/1*JhfgzVXA0lvAIGIfRICRfA.gif" height="35" width="35">
 <img src="https://miro.medium.com/max/952/1*JhfgzVXA0lvAIGIfRICRfA.gif" height="35" width="35">
 </div>
+<br>
 Oh that React... 🤪
 <br>
 Difficult at the beginning, but very interesting later... 👍
